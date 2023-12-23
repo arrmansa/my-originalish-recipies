@@ -1,3 +1,33 @@
+# 12-min-chocohotpot
+A rapid version of Nigella Lawson's chocohotpot using a 3 in one microwave, convection, grill oven.
+
+# Ingredients
+100g 80% dark chocolate
+100g butter
+2 whole eggs
+75g sugar
+3 tbsp flour
+
+# Tools
+hand mixer with a dough mix attachment
+500 ml glass measuring cup 
+blowtorch
+3 in one microwave, convection, grill oven.
+
+## Recipie
+Melt the chocolate and butter in a microwave (1 min 30s at 900W) then mix with a spoon. (In the glass measuring cup)
+Put the sugar on top of this hot molten liquid so that it floats on it.
+Put the flour after the sugar as well so that there is now an insulating layer over the chocolate.
+Place the eggs and egg yolk on top of this hot mix
+Now at once, dip the hand mixer into the measuring cup and mix it on low, while trying not to introduce too many air bubbles.
+Once mixed, put a folded cloth on the counter and bump the bottom of the measuring cup against the toweled surface to bring some of the bubbles to the top.
+Blowtorch the bubbles (technique from epoxy resin pouring) to pop them.
+Pour evenly into 5 (microwave safe) glass bowls
+Microwave for 1min 30s (or untill they start to rise / almost overflow) Grill on max for 1m 30s (to make the top foam layer set) and then convection at 230c for 2min (to finish the cooking)
+
+serve warm with icecream
+
+
 # 30-min-faux-meringue
 A non-conventional rapid meringue recipe that results in a limited lifespan treat. (Warning - Uses magnesium)
 
